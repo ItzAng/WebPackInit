@@ -1,2 +1,2 @@
 # WebPackInit
-Proyecto de inicio webpack-babel
+Proyecto de inicio webpack-babel mul
